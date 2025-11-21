@@ -54,8 +54,8 @@ Statistik & Aktivitas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fayiz-Akbar&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistik GitHub Fayiz-Akbar" width="49%">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayiz-Akbar&layout=compact&theme=tokyonight&bg_color=151515" alt="Bahasa Teratas Fayiz-Akbar" width="49%">
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayiz-Akbar&layout=compact&theme=tokyonight&bg_color=151515&hide_title=true" alt="Bahasa Teratas Fayiz-Akbar" width="49%">
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayiz-Akbar&theme=github-dark" alt="Grafik Aktivitas Kontribusi Fayiz-Akbar" width="100%">

@@ -116,7 +116,7 @@ Statistik & Aktivitas GitHub
     <td width="50%">
       <a href="https://github.com/Fayiz-Akbar/Sistem_Rekomendasi_Film" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Sistem_Rekomendasi_Film&theme=tokyonight&bg_color=151515" alt="Sistem Rekomendasi Film" width="100%">
-D
+
       </a>
     </td>
     <td width="50%">

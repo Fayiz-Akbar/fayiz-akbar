@@ -94,41 +94,25 @@ Statistik & Aktivitas GitHub
 <h2 align="center"> Proyek Unggulan Saya</h2>
 
 <p align="center">
-  Ini adalah beberapa proyek dari website saya, yang ditampilkan sebagai "Repo Card" dinamis.
-  <br>
-  (Ini adalah cara terbaik untuk "meniru" grid proyek Anda di GitHub)
+  <a href="https://github.com/Fayiz-Akbar/website-buku-Web_Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=website-buku-Web_Framework&theme=tokyonight&bg_color=151515" alt="BookHaven" height="150">
+  </a>
+  <a href="https://github.com/Fayiz-Akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011&theme=tokyonight&bg_color=151515" alt="Klasifikasi Sampah DL" height="150">
+  </a>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Fayiz-Akbar/website-buku-Web_Framework" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=website-buku-Web_Framework&theme=tokyonight&bg_color=151515" alt="BookHaven" width="100%">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Fayiz-Akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011&theme=tokyonight&bg_color=151515" alt="Klasifikasi Sampah DL" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Fayiz-Akbar/Sistem_Rekomendasi_Film" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Sistem_Rekomendasi_Film&theme=tokyonight&bg_color=151515" alt="Sistem Rekomendasi Film" width="100%">
-
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Fayiz-Akbar/Analisis-Sentimen-Aplikasi-Shopee" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Analisis-Sentimen-Aplikasi-Shopee&theme=tokyonight&bg_color=151515" alt="Analisis Sentimen Shopee" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-D
 <p align="center">
-  ...dan masih banyak lagi di <a href="https://github.com/Fayiz-Akbar?tab=repositories" target="_blank">tab Repositori saya</a>!
+  <a href="https://github.com/Fayiz-Akbar/Sistem_Rekomendasi_Film">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Sistem_Rekomendasi_Film&theme=tokyonight&bg_color=151515" alt="Sistem Rekomendasi Film" height="150">
+  </a>
+  <a href="https://github.com/Fayiz-Akbar/Analisis-Sentimen-Aplikasi-Shopee">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Analisis-Sentimen-Aplikasi-Shopee&theme=tokyonight&bg_color=151515" alt="Analisis Sentimen Shopee" height="150">
+  </a>
+</p>
+
+<p align="center">
+  ...dan masih banyak lagi di <a href="https://github.com/Fayiz-Akbar?tab=repositories">tab Repositori saya</a>!
 </p>
 
 ---

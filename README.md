@@ -126,7 +126,7 @@ Statistik & Aktivitas GitHub
     </td>
   </tr>
 </table>
-
+D
 <p align="center">
   ...dan masih banyak lagi di <a href="https://github.com/Fayiz-Akbar?tab=repositories" target="_blank">tab Repositori saya</a>!
 </p>

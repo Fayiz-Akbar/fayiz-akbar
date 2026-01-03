@@ -3,7 +3,7 @@
   <h3 align="center">Fullstack Developer Dan AI Engineer ✨</h3>
  
   <p align="center">
-    Saya membangun aplikasi web modern yang responsif dengan desain antarmuka yang bersih dan pengalaman pengguna yang mulus
+    Saya membangun aplikasi web modern yang responsif dengan desain antarmuka yang bersih dan pengalaman pengguna yang mulus.
     <br>
     Saya memadukan keahlian dalam pengembangan web dengan pemahaman mendalam di bidang Machine Learning hingga Deep Learning untuk menciptakan solusi cerdas, fungsional, dan berorientasi masa depan.
   </p>

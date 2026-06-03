@@ -28,7 +28,7 @@
   </p>
  
   <p align="center">
-    <a href="https://github.com/Fayiz-Akbar?tab=repositories" target="_blank">
+    <a href="https://github.com/fayiz-akbar?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/Lihat-Proyek_Saya-183758?style=for-the-badge&logo=githubactions" alt="Explore My Project"/>
     </a>
     <a href="CV Fayiz.pdf" target="_blank">
@@ -39,7 +39,7 @@
 
 ---
 
-Tentang Saya
+### Tentang Saya
 
 <p>
   Saya adalah seorang mahasiswa Teknik Informatika yang memiliki ketertarikan besar di dunia teknologi, khususnya dalam pengembangan antarmuka web. Ketertarikan saya terhadap Frontend Development berawal dari rasa kagum melihat bagaimana desain yang menarik dan interaktif bisa meningkatkan pengalaman pengguna secara drastis. Dari situlah saya mulai mendalami HTML, CSS, dan JavaScript, serta berbagai framework modern seperti React dan Tailwind CSS.
@@ -50,22 +50,15 @@ Tentang Saya
 
 ---
 
-Statistik & Aktivitas GitHub
+### Aktivitas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayiz-Akbar&show_icons=true&theme=tokyonight&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Statistik GitHub Fayiz-Akbar" width="49%">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayiz-Akbar&layout=compact&theme=tokyonight&bg_color=151515&hide_title=true" alt="Bahasa Teratas Fayiz-Akbar" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fayiz-akbar&theme=github-dark" alt="Grafik Aktivitas Kontribusi Fayiz-Akbar" width="100%">
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayiz-Akbar&theme=github-dark" alt="Grafik Aktivitas Kontribusi Fayiz-Akbar" width="100%">
-</p>
-
-
 
 ---
 
-<h2 align="center"> My Skills</h2>
+<h2 align="center">My Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -91,34 +84,23 @@ Statistik & Aktivitas GitHub
 
 ---
 
-<h2 align="center"> Proyek Unggulan Saya</h2>
+<h2 align="center">Proyek Unggulan</h2>
+
+| Proyek | Deskripsi | Tech Stack |
+| :--- | :--- | :--- |
+| 📖 **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
+| 🗑️ **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
+| 🎬 **[Sistem Rekomendasi Film](https://github.com/fayiz-akbar/Sistem_Rekomendasi_Film)** | Sistem cerdas yang memberikan rekomendasi film berdasarkan preferensi user. | Machine Learning, Python |
+| 🛍️ **[Analisis Sentimen Shopee](https://github.com/fayiz-akbar/Analisis-Sentimen-Aplikasi-Shopee)** | NLP untuk menganalisis ulasan pengguna pada aplikasi Shopee secara real-time. | NLP, Python |
 
 <p align="center">
-  <a href="https://github.com/Fayiz-Akbar/website-buku-Web_Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=website-buku-Web_Framework&theme=tokyonight&bg_color=151515" alt="BookHaven" height="150">
-  </a>
-  <a href="https://github.com/Fayiz-Akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011&theme=tokyonight&bg_color=151515" alt="Klasifikasi Sampah DL" height="150">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Fayiz-Akbar/Sistem_Rekomendasi_Film">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Sistem_Rekomendasi_Film&theme=tokyonight&bg_color=151515" alt="Sistem Rekomendasi Film" height="150">
-  </a>
-  <a href="https://github.com/Fayiz-Akbar/Analisis-Sentimen-Aplikasi-Shopee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayiz-Akbar&repo=Analisis-Sentimen-Aplikasi-Shopee&theme=tokyonight&bg_color=151515" alt="Analisis Sentimen Shopee" height="150">
-  </a>
-</p>
-
-<p align="center">
-  ...dan masih banyak lagi di <a href="https://github.com/Fayiz-Akbar?tab=repositories">tab Repositori saya</a>!
+  <br>
+  ...dan masih banyak lagi di <a href="https://github.com/fayiz-akbar?tab=repositories" target="_blank">tab Repositori saya</a>!
 </p>
 
 ---
 
-
-Hubungi Saya
+<h2 align="center">Hubungi Saya</h2>
 
 <p align="center">
   Ada pertanyaan, ide proyek, atau sekadar ingin menyapa?
@@ -128,8 +110,8 @@ Hubungi Saya
 
 <p align="center">
   <a href="https://fayiz-akbar.github.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Website-183758?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-    </a>
+    <img src="https://img.shields.io/badge/Portfolio-Website-183758?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/fayiz-akbar-daifullah?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

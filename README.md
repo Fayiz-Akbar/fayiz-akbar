@@ -88,10 +88,10 @@
 
 | Proyek | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
-| 📖 **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
-| 🗑️ **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
-| 🎬 **[Sistem Rekomendasi Film](https://github.com/fayiz-akbar/Sistem_Rekomendasi_Film)** | Sistem cerdas yang memberikan rekomendasi film berdasarkan preferensi user. | Machine Learning, Python |
-| 🛍️ **[Analisis Sentimen Shopee](https://github.com/fayiz-akbar/Analisis-Sentimen-Aplikasi-Shopee)** | NLP untuk menganalisis ulasan pengguna pada aplikasi Shopee secara real-time. | NLP, Python |
+|  **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
+|  **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
+|  **[Sistem Rekomendasi Film](https://github.com/fayiz-akbar/Sistem_Rekomendasi_Film)** | Sistem cerdas yang memberikan rekomendasi film berdasarkan preferensi user. | Machine Learning, Python |
+|  **[Analisis Sentimen Shopee](https://github.com/fayiz-akbar/Analisis-Sentimen-Aplikasi-Shopee)** | NLP untuk menganalisis ulasan pengguna pada aplikasi Shopee secara real-time. | NLP, Python |
 
 <p align="center">
   <br>

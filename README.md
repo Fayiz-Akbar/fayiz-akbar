@@ -72,6 +72,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 
   <br>
  
@@ -88,10 +89,10 @@
 
 | Proyek | Deskripsi | Tech Stack |
 | :--- | :--- | :--- |
-|  **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
-|  **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
-|  **[Sistem Rekomendasi Film](https://github.com/fayiz-akbar/Sistem_Rekomendasi_Film)** | Sistem cerdas yang memberikan rekomendasi film berdasarkan preferensi user. | Machine Learning, Python |
-|  **[Analisis Sentimen Shopee](https://github.com/fayiz-akbar/Analisis-Sentimen-Aplikasi-Shopee)** | NLP untuk menganalisis ulasan pengguna pada aplikasi Shopee secara real-time. | NLP, Python |
+| 📖 **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
+| 🗑️ **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
+| ☕ **[RobustaHub](https://github.com/Fayiz-Akbar/robustahub)** | Platform B2B agritech e-commerce yang menghubungkan petani kopi Lampung dengan coffee shop. | Node.js, Express.js, Prisma, Xendit |
+| 🤖 **[Empath AI](https://empath-ai.netlify.app/)** | Aplikasi web interaktif berbasis AI pintar untuk analisis respons empati dan pemrosesan teks. | React.js, Tailwind CSS, AI/ML |
 
 <p align="center">
   <br>

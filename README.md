@@ -91,8 +91,8 @@
 | :--- | :--- | :--- |
 |  **[BookHaven](https://github.com/fayiz-akbar/website-buku-Web_Framework)** | Website katalog & manajemen buku berbasis web. | Laravel / Web Framework |
 |  **[Klasifikasi Sampah DL](https://github.com/fayiz-akbar/Submission-Proyek-Akhir-Belajar-Deep-Learning_Fayiz-Akbar-Daifullah_2315061011)** | Model Deep Learning untuk mendeteksi dan mengklasifikasikan jenis-jenis sampah. | Python, TensorFlow / Keras |
-| ☕ **[RobustaHub](https://github.com/Fayiz-Akbar/robustahub)** | Platform B2B agritech e-commerce yang menghubungkan petani kopi Lampung dengan coffee shop. | Node.js, Express.js, Prisma, Xendit |
-| 🤖 **[Empath AI](https://empath-ai.netlify.app/)** | Aplikasi web interaktif berbasis AI pintar untuk analisis respons empati dan pemrosesan teks. | React.js, Tailwind CSS, AI/ML |
+|  **[RobustaHub](https://github.com/Fayiz-Akbar/robustahub)** | Platform B2B agritech e-commerce yang menghubungkan petani kopi Lampung dengan coffee shop. | Node.js, Express.js, Prisma, Xendit |
+|  **[Empath AI](https://empath-ai.netlify.app/)** | Aplikasi web interaktif berbasis AI pintar untuk analisis respons empati dan pemrosesan teks. | React.js, Tailwind CSS, AI/ML |
 
 <p align="center">
   <br>

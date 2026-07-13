@@ -128,3 +128,21 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=800&height=80&lines=%3E_+Hello,+I'm+Fayiz+Akbar+Daifullah+_;%3E_+Full-Stack+Developer+%7C+AI+Engineer+_;%3E_+Building+Intelligent+Web+Solutions+_;%3E_+System.out.println(%22Welcome!%22)+_" alt="Typing SVG" />
+</div>
+
+---
+
+### ⚡ `whoami`
+
+```json
+{
+  "name": "Fayiz Akbar Daifullah",
+  "education": "Informatics Engineering Undergraduate",
+  "role": ["Full-Stack Developer", "AI Engineer"],
+  "focus": ["MERN Stack", "Laravel", "Deep Learning", "Computer Vision", "Cybersecurity"],
+  "mission": "Memadukan pengembangan web modern dengan kecerdasan buatan dan keamanan sistem untuk menciptakan solusi yang fungsional, tangguh, dan berorientasi masa depan.",
+  "location": "Indonesia"
+}
